@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+streamlit
+openai
+pydantic
+pyarrow   # for parquet saving/loading
+# optional (for forecasting): statsmodels
+statsmodels
